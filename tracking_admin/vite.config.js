@@ -17,7 +17,7 @@ export default defineConfig({
   server: {
     host: true, // allow external access
     allowedHosts: [
-      ".softwarestack.xyz", // ✅ allows ALL subdomains
+      ".itzmeramyaa.com", // ✅ allows ALL subdomains
     ],
   },
 });
